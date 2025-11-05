@@ -5,7 +5,10 @@ __pycache__/
 
 # C extensions
 *.so
-
+GPU-Puzzles
+Triton-Puzzles-Lite
+mojo-gpu-puzzles
+<D-s>s
 # Distribution / packaging
 .Python
 build/
